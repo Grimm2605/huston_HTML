@@ -8,22 +8,15 @@ h1 {
     font-size: 32px;
     margin-top: 1.5em;
 }
-h1, h2 {
-    font-family: sans-serif;
-}
 
-table, th, td {
-    border: 1px solid black;
-}
+h1, h2 {font-family: sans-serif;}
 
-figcaption {
-    font-style: italic;
+table, th, td {border: 1px solid black;}
 
-}
+figcaption {font-style: italic;}
 
 figure {
     float: right;
     margin:auto;
     width: 30%;
-    
 }
